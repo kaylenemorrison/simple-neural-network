@@ -1,5 +1,5 @@
-Resources I used:
+Simple Neural Network
 
-1. https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
+This simple neural network predicts the output of the boolean XOR function. No Machine Learning libraries were used. All calculations were performed using NumPy. To run this project, the only dependency you will need to install is NumPy. 
 
 
